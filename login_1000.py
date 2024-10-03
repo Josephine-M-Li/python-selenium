@@ -8,7 +8,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 
-urls = ["https://staging.hixcare.tw/login/signIn"]
+urls = [""]
 s = Service(
     r"C:\Users\rayli\Desktop\test\Lib\site-packages\chromedriver\chromedriver.exe"
 )
